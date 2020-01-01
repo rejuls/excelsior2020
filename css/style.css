@@ -4,6 +4,11 @@ hr#footer {
 		width: 15vw;
 }
 
+.ticketdiv {
+    margin: 0 auto;
+    width: 80%;
+}
+
 .locationmap{
   width: 30vw;
 }
