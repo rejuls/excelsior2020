@@ -4,6 +4,10 @@ hr#footer {
 		width: 15vw;
 }
 
+.locationmap{
+  width: 30vw;
+}
+
 .footerlocation {
     padding-left: 2.5vw;
     padding-right: 2.5vw;
@@ -337,6 +341,9 @@ ul.footer-menu li a:hover {
 		    margin-bottom: 10px;
 				width: 50vw;
 		}
+    .locationmap{
+      width: 70vw;
+    }
 }
 
 
@@ -359,6 +366,9 @@ ul.footer-menu li a:hover {
 				margin-bottom: 10px;
 				width: 30vw;
 		}
+    .locationmap{
+      width: 70vw;
+    }
 }
 
 
